@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff73c6d0</color>
+    <color name="colorPrimaryDark">#ff73c6d0</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorSmallGraphBackground">#ff73c6d0</color>
+
+    <color name="colorGraphBackground">#ff0096a6</color>
+    <color name="colorGraphBottomBackground">#ff73c6d0</color>
+    <color name="colorGraphBar">#bfffffff</color>
+    <color name="colorYAxisLabel">#ff000000</color>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><!--Y Axis label textview-->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/height_y_axis_label_textview"
+    android:gravity="center"
+    android:text="@string/app_name"
+    android:layout_gravity="center_horizontal"
+    android:textColor="@color/colorYAxisLabel"
+    android:textStyle="bold"
+    android:textSize="@dimen/graph_y_axis_label_size" />

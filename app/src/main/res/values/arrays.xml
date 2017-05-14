@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_mood">
+        <item>Hopeful</item>
+        <item>Happy</item>
+        <item>Determined</item>
+        <item>Confused</item>
+        <item>Relieved</item>
+        <item>Grateful</item>
+        <item>Isolated</item>
+        <item>Okay</item>
+        <item>Lonely</item>
+        <item>Angry</item>
+        <item>Afraid</item>
+        <item>Sad</item>
+        <item>Desperate</item>
+    </string-array>
+</resources>
